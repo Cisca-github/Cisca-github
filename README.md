@@ -1,4 +1,4 @@
--👋 Hi, I’m @Cisca-github
+-👋 Hi, I am francisca Erdoo Iorliam
 - 👀 I’m interested in solving complex problems with data-driven insights, machine learning, and AI.
 - 🌱 I’m learning advanced deep learning techniques and deploying models at scale.
 - 💞️ I’m looking to collaborate on data science projects that have a real-world impact, especially in predictive analytics and automation.
