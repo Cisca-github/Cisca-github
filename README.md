@@ -1,0 +1,6 @@
+-👋 Hi, I’m @Cisca-github
+- 👀 I’m interested in solving complex problems with data-driven insights, machine learning, and AI.
+- 🌱 I’m learning advanced deep learning techniques and deploying models at scale.
+- 💞️ I’m looking to collaborate on data science projects that have a real-world impact, especially in predictive analytics and automation.
+- 📫 How to reach me: iorliamfrancisca@gmail.com
+- ⚡ Fun fact: I love experimenting with data visualizations and finding patterns where others see randomness!
